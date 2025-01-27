@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/background.png</File>
+    <File>C:/Users/tyler/Downloads/background.png</File>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/foreground.png</File>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/KnightSpritesheet.png</File>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/Left.png</File>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/Right.png</File>
+    <File>d:/NAIT/GameProgramming/animation-and-inputs-BerserkFan1997/Assignment-01/Assignment-01/Content/SkeletonSpritesheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>background.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
